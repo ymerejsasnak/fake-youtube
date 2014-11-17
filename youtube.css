@@ -1,31 +1,41 @@
+body {
+	background-color: #F1F1F1;
+}
+
+
 #search {
 	height: 50px;
-	display: inline;
+	width: 100%;
 	border: 1px solid black;
+	position: fixed;
+	background-color: white;
 }
 
 #search img {
 	width: 100px;
+	display: inline;
 }
 
 
 
 #video {
+	margin-top: 60px;
+	margin-left: 10px;
 	width: 920px;
 	height: 685px;
-	border: 1px solid black;
 	float: left;
-	background-color: #EEEEEE;
+	background-color: white;
 }
 
 
 
 #thumbnails-sidebar {
+	margin-top: 60px;
+	margin-right: 10px;
 	width: 430px;
 	height: 685px;
-	border: 1px solid black;
 	float: right;
-	background-color: #DDDDDD;
+	background-color: white;
 }
 
 .thumbnail {
