@@ -20,12 +20,27 @@
 
 
 
-#thumbnails {
+#thumbnails-sidebar {
 	width: 430px;
 	height: 685px;
 	border: 1px solid black;
 	float: right;
 	background-color: #DDDDDD;
+}
+
+.thumbnail {
+	width: 415px;
+	height: 100px;
+	display: block;
+}
+
+.thumbnail img {
+	width: 120px;
+	float: left;
+}
+
+.thumbnail ul {
+	float: right;
 }
 
 
