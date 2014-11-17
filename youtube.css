@@ -1,7 +1,34 @@
-header {
+#search {
+	height: 50px;
 	display: inline;
+	border: 1px solid black;
 }
 
-header img {
+#search img {
 	width: 100px;
 }
+
+
+
+#video {
+	width: 920px;
+	height: 685px;
+	border: 1px solid black;
+	float: left;
+	background-color: #EEEEEE;
+}
+
+
+
+#thumbnails {
+	width: 430px;
+	height: 685px;
+	border: 1px solid black;
+	float: right;
+	background-color: #DDDDDD;
+}
+
+
+
+
+
